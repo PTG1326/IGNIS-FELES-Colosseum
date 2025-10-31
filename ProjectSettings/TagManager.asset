@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Bullet
+  - Wall
+  - Prop
+  - SpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Lighting
+  - 
+  - 
+  - Player Layer
+  - 
+  - Enemy Bullet Layer
+  - 
+  - 
+  - Bullet Layer
+  - 
+  - 
+  - Enemy Layer
+  - 
+  - Upper Prop Layer
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2425651459
+    locked: 0
+  - name: Shadow
+    uniqueID: 428062965
+    locked: 0
+  - name: Aim Indicator
+    uniqueID: 4250941897
+    locked: 0
+  - name: Player
+    uniqueID: 4189426099
+    locked: 0
+  - name: FOV
+    uniqueID: 4245187849
+    locked: 0
+  m_RenderingLayers:
+  - Default
