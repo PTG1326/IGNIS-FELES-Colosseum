@@ -44,6 +44,6 @@ Future Prospects
 You can play the latest WebGL build of the game here:
 ## Connect using your devnet wallet ##
 
-**[Your Itch.io Game Link Here](https://ptg13.itch.io/ignis-feles)**
+**[PLAY NOWWWWW !!!](https://ptg13.itch.io/ignis-feles)**
 
 ---
