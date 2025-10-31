@@ -21,6 +21,11 @@ Survive, upgrade, and get the highest score possible before you are overwhelmed.
 
 Each player can connect their devnet account and have a personal score account (which stores the maximum score the player has ever got) which is made on the chain and then will be used to create the global leaderboard.
 
+Product Perspective
+- Players will have to buy the game’s native token from the marketplace using some SOL or USDC. A certain number of tokens can be used to play the game.
+- The tokens can be redistributed weekly based on the leaderboard’s top players and a small protocol fee will be cut for operational purposes. 
+- Implement a very rare ‘Golden Scarab’ enemy which has a 0.1% of spawning, if you kill it, you obtain an NFT (no monetary value) but can show it off as a badge of honor and will display on the leaderboard to differentiate from the other players
+
 Future Prospects
 - Incrementally storing a json of game state on the chain to ensure fairness while maintaining performance
 - Creating a bigger leaderboard data account on chain so that the leaderboard is also secure (currently on web2)
