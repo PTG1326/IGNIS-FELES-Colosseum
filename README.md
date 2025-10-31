@@ -17,6 +17,16 @@ Look for rare, temporary upgrades dropped by enemies to turn the tide:
 
 Survive, upgrade, and get the highest score possible before you are overwhelmed.
 
+## 🌐⛓️ Solana Integration
+
+Each player can connect their devnet account and have a personal score account (which stores the maximum score the player has ever got) which is made on the chain and then will be used to create the global leaderboard.
+
+Future Prospects
+- Incrementally storing a json of game state on the chain to ensure fairness while maintaining performance
+- Creating a bigger leaderboard data account on chain so that the leaderboard is also secure (currently on web2)
+- larger maps , more enemies, more upgrades and even more funnnnnn
+
+
 ## ⌨️ Controls
 
 * **Move:** `WASD`
