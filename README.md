@@ -42,7 +42,9 @@ Future Prospects
 ## 🔗 Play the Game
 
 You can play the latest WebGL build of the game here:
-## Connect using your devnet wallet ##
+### Connect using your devnet wallet ###
+Please click on _**REFRESH LEADERBOARD**_ if your score is not visible on the leaderboard when you finish the game (if you're in top 10)
+
 
 **[PLAY NOWWWWW !!!](https://ptg13.itch.io/ignis-feles)**
 
